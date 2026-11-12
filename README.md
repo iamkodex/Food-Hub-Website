@@ -28,20 +28,6 @@ I also used media queries so the layout can adjust to different screen sizes.
 ### JavaScript
 I used JavaScript to make the website interactive. It controls the menu button on smaller screens and checks the information entered in the contact form.
 
-## How the website works
-
-1. Open `index.html` in a web browser.
-2. The HTML file loads the design from `style.css`.
-3. The HTML file also loads `script.js` for the interactive features.
-4. Visitors can use the navigation links to move around the page.
-5. On a phone, the menu button opens and closes the navigation links.
-6. The contact form checks that all fields are filled in and that the email address looks valid.
-
-## How to run the project
-
-Download or clone the project folder and open `index.html` in a browser. Keep the three files (`index.html`, `style.css` and `script.js`) in the same folder so they can work together.
-
-An internet connection is needed for the external food pictures to load.
 
 ## Note about the contact form
 
