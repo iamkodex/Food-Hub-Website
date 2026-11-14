@@ -83,8 +83,10 @@ body {
     min-height: 560px;
     display: flex;
     align-items: center;
-    color: var(--white);
-
+    color: var(--dark);
+    background: var(--light-green);
+}
+    
     background:
         linear-gradient(rgba(15, 25, 18, 0.68), rgba(15, 25, 18, 0.68)),
         url("https://images.unsplash.com/photo-1547592180-85f173990554?auto=format&fit=crop&w=1800&q=90")
